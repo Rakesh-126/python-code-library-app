@@ -87,4 +87,4 @@ networks:
   app:
     driver: bridge
 volumes:
-  mydata
+  mydata:
