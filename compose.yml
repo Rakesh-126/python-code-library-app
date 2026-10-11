@@ -80,6 +80,6 @@ services:
 
 networks:
   app:
-    driver: bridge
+    driver: overlay
 volumes:
   mydata:
